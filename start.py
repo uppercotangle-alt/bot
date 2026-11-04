@@ -8,7 +8,7 @@ from aiogram.filters import Command
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message, CallbackQuery
 
 # Вставьте ваш токен Telegram-бота
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "9076482964:AAGuG8gsf5JntQnVYRQvlxBHD7gXKY_4T6k"
 
 # Настройки серверов Arizona RP (Yuma и Show-Low)
 # Укажите актуальные IP и порты серверов
